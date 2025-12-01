@@ -1,13 +1,5 @@
+<script setup lang="ts"></script>
+
 <template>
-  <div>
-    
-  </div>
+  <div>Главная MonoF1</div>
 </template>
-
-<script setup>
-
-</script>
-
-<style>
-
-</style>
